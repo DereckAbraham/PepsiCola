@@ -9,8 +9,16 @@
 Sean bienvenidos a este proyecto en el cual se estara haciendo una replica exacta de la pagina https://www.pepsi.com/
 
 ## Owner
-GitHub: DereckAbraham
-Email: dacarranza@scl.edu.gt
+
+| GitHub | https://github.com/DereckAbraham |
+| Email | dacarranza@scl.edu.gt / dereckydiego@gmail.com |
 
 # Herramientas para uso del proyecto
-1. (Pepsi){https://www.pepsi.com/}
+
+| ------------ | ------------ |
+|  Pepsi | https://www.pepsi.com/ |
+|  Google Icons | https://fonts.google.com/icons |
+|  Google Fonts | https://fonts.google.com/ |
+|  GitHub | https://github.com/ |
+|  ChatGPT | https://chatgpt.com/?oai-dm=1  |
+|   Phind | https://www.phind.com/search?home=true |
