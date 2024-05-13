@@ -13,4 +13,4 @@ GitHub: DereckAbraham
 Email: dacarranza@scl.edu.gt
 
 # Herramientas para uso del proyecto
-1. (Pepsi)(https://www.pepsi.com/)
+1. (Pepsi){https://www.pepsi.com/}
