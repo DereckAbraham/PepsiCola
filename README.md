@@ -16,9 +16,9 @@ Sean bienvenidos a este proyecto en el cual se estara haciendo una replica exact
 # Herramientas para uso del proyecto
 
 
-  Pepsi | https://www.pepsi.com/ 
-  Google Icons | https://fonts.google.com/icons 
-  Google Fonts | https://fonts.google.com/ 
-  GitHub | https://github.com/ 
-  ChatGPT | https://chatgpt.com/?oai-dm=1  
-   Phind | https://www.phind.com/search?home=true 
+  Pepsi  https://www.pepsi.com/ 
+  Google Icons  https://fonts.google.com/icons 
+  Google Fonts  https://fonts.google.com/ 
+  GitHub  https://github.com/ 
+  ChatGPT  https://chatgpt.com/?oai-dm=1  
+  Phind  https://www.phind.com/search?home=true 
