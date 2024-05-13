@@ -1,5 +1,3 @@
-Aquí tienes una versión mejorada y más estética del README:
-
 # PepsiCola
 
 ## Información
